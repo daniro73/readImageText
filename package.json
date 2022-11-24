@@ -1,0 +1,27 @@
+{
+    "name": "readimagetext",
+    "version": "1.0.0",
+    "description": "read text in image",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/daniro73/readImageText.git"
+    },
+    "keywords": [
+        "ocr",
+        "text",
+        "image"
+    ],
+    "author": "daniro",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/daniro73/readImageText/issues"
+    },
+    "homepage": "https://github.com/daniro73/readImageText#readme",
+    "dependencies": {
+        "text-from-image": "^1.1.1"
+    }
+}
